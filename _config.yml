@@ -28,19 +28,19 @@ author:
   stackoverflow: 2383327
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: Serviradar SAS
+      location: Bogota, Colombia
+      title: Co-Founder and Lead Developer
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: .
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
+      company: Dynaco 
+      location: Bogota, Colombia
+      title: BackEnd, FrontEnd and Android Developer
       started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2011 - 2013)
+      description:.
   educationHistory:
     - education1:
       organization: Universidad Nacional de Colombia
