@@ -33,14 +33,14 @@ author:
       title: Co-Founder and Lead Developer
       started: 2014
       duration: (2014 - Present)
-      description:                                                                                                              .
+      description: .
     - work2:
       company: Dynaco 
       location: Bogota, Colombia
       title: BackEnd, FrontEnd and Android Developer
       started: 2011
       duration: (2011 - 2013)
-      description:                                                                                                              .
+      description: .
   educationHistory:
     - education1:
       organization: Universidad Nacional de Colombia
@@ -49,7 +49,7 @@ author:
       major: Computer and Systems Engineer
       started: 2008
       #duration: (2005 - 2009)
-      description:                                                                                                               .
+      description: .
   languages:
     - language1:
       name: Spanish
