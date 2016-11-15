@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: oadussang's CV 
+description: Oadussang's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: http://klonima.net
+url: http://klonima.net
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-64313986-1
 
 # Build settings
 markdown: kramdown
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Oscar Andres Dussan Garcia
+  title: Backend Developer
+  address: Bogota, Colombia
+  email: oadussang@gmail.com
+  link: http://klonima.net
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: oadussang
+  linkedin: oscardu
+  twitter: oscardu
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
