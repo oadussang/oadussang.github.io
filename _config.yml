@@ -79,3 +79,5 @@ author:
     - skill7:
       name: Java SE
       percentage: 90%
+
+theme: jekyll-theme-dinky
